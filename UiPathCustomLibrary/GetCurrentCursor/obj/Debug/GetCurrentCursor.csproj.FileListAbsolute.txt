@@ -1,0 +1,6 @@
+D:\Dev\Github\CSharp\uipath-custom-library\UiPathCustomLibrary\GetCurrentCursor\bin\Debug\GetCurrentCursor.dll
+D:\Dev\Github\CSharp\uipath-custom-library\UiPathCustomLibrary\GetCurrentCursor\bin\Debug\GetCurrentCursor.pdb
+D:\Dev\Github\CSharp\uipath-custom-library\UiPathCustomLibrary\GetCurrentCursor\obj\Debug\GetCurrentCursor.csprojAssemblyReference.cache
+D:\Dev\Github\CSharp\uipath-custom-library\UiPathCustomLibrary\GetCurrentCursor\obj\Debug\GetCurrentCursor.csproj.CoreCompileInputs.cache
+D:\Dev\Github\CSharp\uipath-custom-library\UiPathCustomLibrary\GetCurrentCursor\obj\Debug\GetCurrentCursor.dll
+D:\Dev\Github\CSharp\uipath-custom-library\UiPathCustomLibrary\GetCurrentCursor\obj\Debug\GetCurrentCursor.pdb

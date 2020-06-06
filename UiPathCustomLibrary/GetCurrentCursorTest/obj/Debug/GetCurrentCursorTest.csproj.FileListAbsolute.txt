@@ -1,0 +1,16 @@
+D:\Dev\Github\CSharp\uipath-custom-library\UiPathCustomLibrary\GetCurrentCursorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Dev\Github\CSharp\uipath-custom-library\UiPathCustomLibrary\GetCurrentCursorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Dev\Github\CSharp\uipath-custom-library\UiPathCustomLibrary\GetCurrentCursorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Dev\Github\CSharp\uipath-custom-library\UiPathCustomLibrary\GetCurrentCursorTest\bin\Debug\GetCurrentCursorTest.dll
+D:\Dev\Github\CSharp\uipath-custom-library\UiPathCustomLibrary\GetCurrentCursorTest\bin\Debug\GetCurrentCursorTest.pdb
+D:\Dev\Github\CSharp\uipath-custom-library\UiPathCustomLibrary\GetCurrentCursorTest\bin\Debug\GetCurrentCursor.dll
+D:\Dev\Github\CSharp\uipath-custom-library\UiPathCustomLibrary\GetCurrentCursorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Dev\Github\CSharp\uipath-custom-library\UiPathCustomLibrary\GetCurrentCursorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Dev\Github\CSharp\uipath-custom-library\UiPathCustomLibrary\GetCurrentCursorTest\bin\Debug\GetCurrentCursor.pdb
+D:\Dev\Github\CSharp\uipath-custom-library\UiPathCustomLibrary\GetCurrentCursorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Dev\Github\CSharp\uipath-custom-library\UiPathCustomLibrary\GetCurrentCursorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Dev\Github\CSharp\uipath-custom-library\UiPathCustomLibrary\GetCurrentCursorTest\obj\Debug\GetCurrentCursorTest.csprojAssemblyReference.cache
+D:\Dev\Github\CSharp\uipath-custom-library\UiPathCustomLibrary\GetCurrentCursorTest\obj\Debug\GetCurrentCursorTest.csproj.CoreCompileInputs.cache
+D:\Dev\Github\CSharp\uipath-custom-library\UiPathCustomLibrary\GetCurrentCursorTest\obj\Debug\GetCurrentCursorTest.csproj.CopyComplete
+D:\Dev\Github\CSharp\uipath-custom-library\UiPathCustomLibrary\GetCurrentCursorTest\obj\Debug\GetCurrentCursorTest.dll
+D:\Dev\Github\CSharp\uipath-custom-library\UiPathCustomLibrary\GetCurrentCursorTest\obj\Debug\GetCurrentCursorTest.pdb
