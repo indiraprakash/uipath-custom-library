@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetCurrentCursorTest", "Get
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExchangeMailService", "ExchangeMailService\ExchangeMailService.csproj", "{8C0BC5FC-D125-4D95-BC4A-F5D62B8B0A89}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExchangeMailServiceTests", "ExchangeMailServiceTests\ExchangeMailServiceTests.csproj", "{EF520F5E-51A3-44AB-B137-288C96A7155E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{8C0BC5FC-D125-4D95-BC4A-F5D62B8B0A89}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8C0BC5FC-D125-4D95-BC4A-F5D62B8B0A89}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8C0BC5FC-D125-4D95-BC4A-F5D62B8B0A89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF520F5E-51A3-44AB-B137-288C96A7155E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF520F5E-51A3-44AB-B137-288C96A7155E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF520F5E-51A3-44AB-B137-288C96A7155E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF520F5E-51A3-44AB-B137-288C96A7155E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
