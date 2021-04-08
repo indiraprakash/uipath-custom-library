@@ -7,8 +7,8 @@
     <ProjectGuid>{44681864-925B-43B1-A073-0EC787925466}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>StartProcess</RootNamespace>
-    <AssemblyName>StartProcess</AssemblyName>
+    <RootNamespace>Swisscom.UiPath.Activities</RootNamespace>
+    <AssemblyName>Swisscom.UiPath.Activities.StartProcess</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>

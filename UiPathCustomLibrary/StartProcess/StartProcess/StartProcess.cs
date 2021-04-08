@@ -2,15 +2,15 @@
 using System.Activities;
 using System.Diagnostics;
 
-namespace StartProcess
+namespace Swisscom.UiPath.Activities
 {   /// <summary>
     /// Start the process and get the output from standard output 
     /// </summary>
     public class StartProcess : CodeActivity
     {
-        public InArgument<String> FileName { get; set; }
-        public InArgument<String> Arguments { get; set; }
-        public OutArgument<String> Result { get; set; }
+        public InArgument<string> FileName { get; set; }
+        public InArgument<string> Arguments { get; set; }
+        public OutArgument<string> Result { get; set; }
 
         protected override void Execute(CodeActivityContext context)
         {
@@ -26,16 +26,16 @@ namespace StartProcess
                     process.StartInfo.RedirectStandardOutput = true;
                     process.StartInfo.RedirectStandardError = true;
                     // To store error message 
-                    String eOut = null;
+                    string eOut = null;
                     process.ErrorDataReceived += new DataReceivedEventHandler((sender, e) => { eOut += e.Data; });
                     //Start the process
                     process.Start();
                     // Synchronously read the standard output of the spawned process.
                     process.BeginErrorReadLine();
                     // Store output of the process
-                    String output = process.StandardOutput.ReadToEnd();
+                    string output = process.StandardOutput.ReadToEnd();
                     process.WaitForExit();
-                    if (String.IsNullOrEmpty(eOut))
+                    if (string.IsNullOrEmpty(eOut))
                     {
                         Result.Set(context, output);
                     }
